@@ -1,0 +1,23 @@
+python
+    high-level
+    interpreted
+    object-oriented
+    scripting(code + automation)
+    highly readable
+    interactive
+    portable
+    extendable
+    databases
+    gui programming
+    scalable
+    dynamic typing & dynamic type-checking
+    automatic garbage collection
+    easily integratable
+
+slow languages
+
+    programming paradigms
+        procedural
+        functional
+        structural
+        object-oriented

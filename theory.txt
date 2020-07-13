@@ -1,0 +1,172 @@
+python
+    high-level
+    interpreted
+    interactive
+    object oriented
+    slow
+        easy to code
+        easy to understand
+        easy to maintain
+
+
+why python is preffered over other languages?
+    easy to code
+    easy to understand
+    easy to maintain
+    broad standard library
+    interactive
+    portable
+    extendable
+    database compatibility
+    GUI programming
+    Scalable
+    offers dynamic typing and dynamic type checking
+
+    procedural
+    functional
+    structural
+    Object oriented
+    
+    scripting
+    automatic garbage collection
+    easily integratable with other programming languages
+
+- every programming language has got 2 things
+    variables
+        inbuilt variables
+            primary variables
+                integers
+                    long
+                floats
+                    double X - not for python
+                complex
+                    5 + 4j
+                booleans
+                    True
+                    False
+                characters - has a length of 1
+                1 2 3 4 5 H i * ^ \n 
+                stream of characters is known as strings - "", '', '''''', """"""
+            inbuilt data structures
+                mutables
+                    list - []
+                    set = {}
+                    dict - {key: value}
+                immutables
+                    tuples - ()
+                    strings - "", '', '''''', """"""
+                        single lined - "", ''
+                        multi lined = """""", ''''''
+            library variables
+                numpy.array
+                collections.frozenset
+                collections.
+                    orderdedict
+                    defaultdict
+                    deque
+                    namedtuple
+            special variables
+        abstract variables
+            linked list
+                singly linked list
+                doubly linked list
+                circular linked list
+            queue
+                Priority queue
+            stack
+            tree
+                Binary tree
+                Triple tree
+            graph
+            deque
+            vector
+    operators
+        arithmetic
+            +
+            -
+            *
+            / - floating point division
+                integral division
+                    % - mod - remainder
+                    // - div - quotient
+            ** - power/exponent
+
+        comparison - gives true or false
+            == equals
+            != not equals
+            >
+            <
+            >=
+            <=
+
+        assignment operators
+            =
+            += 
+            -= 
+            *= 
+            /=
+            **=
+            %=
+            //=
+
+        bitwise operators - numbers
+            & - and
+            | - or
+            ^ - xor
+            ~ - one's complement
+            <<
+            >>
+
+        logicals - act between expressions
+            and
+            or
+            not
+
+        membership operators
+            in
+            not in
+        
+        identity operators 
+            is ==
+            is not !=
+
+        operator precedence
+            ()
+            **
+            ~+-
+            arithmetic
+            bitwise - shift - & | !
+            comparison
+            equality
+            assignment
+            identity
+            membership
+            logical - unary
+
+    functions
+        inbuilt
+            higher order functions
+                inbuilt
+                    map
+                    reduce
+                    filter
+                self-defined
+                    decorater
+                    closure
+            operations that can be done on different data types
+                reversed
+                range
+                len
+            operations that can be done on only a particular data type
+        self defined
+
+Python environment variables
+    PYTHONPATH - 
+    PYTHONSTARTUP - contains the commands that load utils or modify PYTHONPATH
+    PYTHONCASEOK - 
+    PYTHONHOME - alternative module search path
+
+conditionals
+    if 
+    elif
+    else
